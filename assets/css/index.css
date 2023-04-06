@@ -1,0 +1,79 @@
+* {
+  background-color: white;
+  color: #000000;
+}
+
+#google {
+  display: block;
+  margin: 0px auto;
+  margin-top: 50px;
+  width: 500px;
+}
+#typing {
+  width: 35%;
+  height: 40px;
+  border-radius: 50px;
+  position: relative;
+  left: 32%;
+  border-color: rgb(33, 31, 31);
+  border-width: 0.5px;
+  padding-left: 50px;
+}
+
+#search {
+  width: 150px;
+  height: 30px;
+  background-color: #cdcaca;
+  position: relative;
+  left: 38%;
+  border-radius: 10px;
+  color: black;
+  outline: 0px;
+  border-color: transparent;
+}
+
+#lucky {
+  width: 150px;
+  height: 30px;
+  background-color: #cdcaca;
+  position: relative;
+  left: 38%;
+  border-radius: 10px;
+  color: black;
+  outline: 0px;
+  border-color: transparent;
+}
+
+#links {
+  word-spacing: 10px;
+}
+.link {
+  position: relative;
+  left: 38%;
+}
+
+.gg {
+  position: relative;
+}
+
+#icon {
+  position: absolute;
+  left: 410px;
+  height: 20px;
+  top: 8.5px;
+}
+
+#voice {
+  position: absolute;
+  right: 430px;
+  height: 25px;
+  top: 7px;
+}
+                                                                                                                                                                                                                                                                                                                                                                 
+a {
+  color: rgb(106, 106, 225);
+}
+@media screen and (width:257px) {
+body{background-color: red;}
+  
+}
